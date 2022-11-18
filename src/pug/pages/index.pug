@@ -1,0 +1,14 @@
+extends ../config/template
+append config
+	-currentPage		= "home"
+	-siteName			= 'Central Apuesta'
+	-content			= 'content'
+	-pageDescription	= 'This website contains a collection of projects developed by Enrique Estrada using a Gulp boilerplate developed by him'
+block main-header
+block main-container
+	include ../components/tns-slider
+	include ../components/modal-login.html
+	include ../components/markdown
+	
+block main-footer
+block scripts

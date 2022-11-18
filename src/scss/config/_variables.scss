@@ -1,0 +1,17 @@
+//layout
+:root {
+  --size-card			: 300px;
+  --header-height 		: 3rem;
+  @include from(l) {
+    --header-height 	: 4rem;
+  }
+	//native color vars
+	--color-first      	: #007BDF;
+	--color-sky			: #416fcf;
+	--color-skyLow		: #002880;
+	--color-grayLow		: #858585;
+	--color-third      	: #FF3C32;
+	--color-background  : white;
+}
+// Sass Color Vars
+$color-first 			: var(--color-first			);

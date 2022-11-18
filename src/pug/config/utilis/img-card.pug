@@ -1,0 +1,11 @@
+mixin pushItem(img_desktop,img_movile,i)
+	div: div(class='tns-carousell__content' id=i): span
+		picture
+			source(media="(max-width:1023px)" srcset=img_movile)
+			img(src=img_desktop)
+
+
+-for(var i = 0; i < item_netfl.length ; i++)
+		-var item = item_netfl[i]
+		+pushItem(item.img_desktop, item.img_movile,i)
+

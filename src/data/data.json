@@ -1,0 +1,57 @@
+{
+	"item_netfl":
+		[
+			{
+				"img_desktop"		: "assets/img/casinoP-desktop.jpg",
+				"img_movile"		: "assets/img/casinoP-movil.jpg",
+				"img_foorterCard"	: "https://jazzcasino.com/images/banners/landing-slots.jpg",		
+				"title"		: "Roulette",
+				"category"	: "Game of chance",
+				"Descripcion"	: "Roulette is a casino game named after the French word meaning little wheel which was likely developed from the Italian game Biribi. In the game, a player may choose to place a bet on a single number, various groupings of numbers, the color red or black, whether the number is odd or even, or if the numbers are high or low."
+			},
+			{
+				"img_desktop"		: "assets/img/turkey-desktop.jpg",
+				"img_movile"		: "assets/img/turkey-movil.jpg",
+				"img_foorterCard"	: "https://jazzcasino.com/wp-content/uploads/2022/10/Turkey-Tournament-LP-desk.jpg",
+				"category"	: "Mancala Gaming",		
+				"title"		: "TURKEY TOURNAMENT FROM <br> NOVEMBER 2ND TO DECEMBER 1ST",
+				"Descripcion"	: "To participate in the Turkey Tournament, follow these steps: <br> <br> 1. Create your new account at JazzSports or log into your existing account. <br> 2. Open the Turkey Tournament category in the lobby. <br> 3. Start playing any of the Mancala Gaming slot games that belong to this category. <br>"
+			},
+			{
+				"img_desktop"		: "https://adserver.bettingcenter.ag/www/images/c8463e1c393bc74fd030c1588685ff38.jpg",
+				"img_movile"		: "https://adserver.bettingcenter.ag/www/images/aee918970a07b81c086aa3b2b9134140.jpg",	
+				"img_foorterCard"	: "https://adserver.bettingcenter.ag/www/delivery/avw.php?zoneid=6&cb=INSERT_RANDOM_NUMBER_HERE&n=a5296144",
+				"category"	: "Soccer",	
+				"title"		: "NFL PICK'EM",
+				"Descripcion"	: "Descripcion de game of Qatar VS Ecuador"
+			},
+			{
+				"img_desktop"		: "https://adserver.bettingcenter.ag/www/images/a5ad35e7cbf59d37bddc15ab0d5e6203.jpg",
+				"img_movile"		: "https://adserver.bettingcenter.ag/www/images/33e2d392a227dd0a085ebdfd1de04144.jpg",
+				"img_foorterCard"	: "",
+				"category"	: "Game Online",		
+				"title"		: "HORSES 'DAILY CASHBACK' ",
+				"Descripcion"	: "<h2>UP TO 10% HORSE REBATE - NO ROLLOVERS</h2> <br> There are no minimum daily volume requirements and there is no maximum on how much you can earn. It doesn't matter if you win or lose, we will credit you a rebate based on your volume and track categories",
+				"video"			: "assets/img/SPINFINITY-BETSOFT-01.mp4"
+
+			},
+			{
+				"img_desktop"		: "https://adserver.bettingcenter.ag/www/images/3010b62df05508686fcda9bb34397725.jpg",
+				"img_movile"		: "https://adserver.bettingcenter.ag/www/images/3010b62df05508686fcda9bb34397725.jpg",
+				"img_foorterCard"	: "https://jazzcasino.com/images/banners/landing-blackjack.jpg",		
+				"title"		: "BLACK JACK",
+				
+				"category"	: "Game of chance",
+				"Descripcion"	: "Description de game de black jack."
+			},
+			{
+				"img_desktop"		: "https://adserver.bettingcenter.ag/www/images/641eacfbdfec65b0ad8f58da1e648e07.jpg",
+				"img_movile"		: "https://adserver.bettingcenter.ag/www/images/641eacfbdfec65b0ad8f58da1e648e07.jpg",
+				"img_foorterCard"	: "https://i.pinimg.com/originals/e7/57/47/e757478428ab05a64ea845cde5e9b7cf.jpg",
+				"category"	: "Game of chance",		
+				"title"		: "LIVE DEALER",
+				"Descripcion"	: "Description de game de LIVE DEALER. <br>"
+			}
+		]
+		
+}
